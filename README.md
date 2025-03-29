@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello, I'm [Your Name] 👋
+Web Developer | 21 years old
+Welcome to my GitHub! I'm a passionate web developer with a focus on building modern, responsive, and user-friendly web applications. I love working with the latest web technologies and always eager to learn and improve my skills.
 
-<!--
-**Pires013/Pires013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 About Me:
+🔧 Proficient in HTML, CSS, JavaScript, and frameworks like React and Node.js.
 
-Here are some ideas to get you started:
+📚 Currently learning and improving my skills in TypeScript and Full-Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I enjoy collaborating on open-source projects and building useful tools for the web.
+
+🌱 What I’m currently working on:
+Building personal projects and contributing to open-source repositories.
+
