@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou o Matheus</h1>
-<h3 align="center">Estudante de Ciência da Computação e apaixonado por Backend com Python 🐍</h3>
+<h1 align="center">Hi 👋, I'm Matheus</h1>
+<h3 align="center">A Computer Science student passionate about Backend development with Python 🐍</h3>
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Tecnologias que estou estudando
+### 💻 Technologies I'm Learning
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
@@ -28,26 +28,24 @@
 
 ---
 
-### 📫 Me contate
+### 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:matheuzinhosk8@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:matheuzinhosk8@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/matheus-pires-3b17b3240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-### 🔎 Sobre mim
+### 👨‍💻 About Me
 
-🎓 Estudante de Ciência da Computação na UNIFAJ (2024–2027)  
-👨‍💻 Buscando minha primeira oportunidade como estagiário backend  
-🚀 Aprendendo: Python, Flask, SQL, Git, APIs REST  
-📂 Projetos em breve com foco em backend
+🎓 Computer Science undergraduate at UNIFAJ (2024–2027)  
+💼 Looking for my first internship opportunity in backend development  
+🚀 Learning Python, Flask, SQL, Git, and REST APIs  
+📁 Soon, I'll be publishing backend-focused projects here
 
 ---
 
-### ✨ Visite meus repositórios e me siga!
+### ✨ Check out my repositories and let's grow together!
 
-⭐ Vamos crescer juntos na jornada dev 🚀  
-
-
+⭐ Feel free to follow and connect with me!
