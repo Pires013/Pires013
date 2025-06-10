@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">A Computer Science student passionate about Backend development with Python 🐍</h3>
+<h3 align="center">A Computer Science student focused on Backend Development with Python 🐍 and Java ☕</h3>
 
 ---
 
@@ -16,6 +16,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
@@ -40,9 +41,9 @@
 ### 👨‍💻 About Me
 
 🎓 Computer Science undergraduate at UNIFAJ (2024–2027)  
-💼 Looking for my first internship opportunity in backend development  
-🚀 Learning Python, Flask, SQL, Git, and REST APIs  
-📁 Soon, I'll be publishing backend-focused projects here
+💼 Aspiring backend developer currently looking for an internship opportunity  
+🚀 Learning Python, Java, SQL, Git, and REST APIs  
+📁 Soon, I’ll be publishing backend-focused projects built with Python and Java
 
 ---
 
