@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">A Computer Science student focused on Backend Development with Python 🐍 and Java ☕</h3>
+<h3 align="center">A Computer Science student focused on Full Stack Development 🚀</h3>
 
 ---
 
@@ -12,16 +12,17 @@
 
 ---
 
-### 💻 Technologies I'm Learning
+### 💻 Tech Stack I'm Learning and Using
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
@@ -40,13 +41,14 @@
 
 ### 👨‍💻 About Me
 
-🎓 Computer Science undergraduate at UNIFAJ (2024–2027)  
-💼 Aspiring backend developer currently looking for an internship opportunity  
-🚀 Learning Python, Java, SQL, Git, and REST APIs  
-📁 Soon, I’ll be publishing backend-focused projects built with Python and Java
+🎓 Computer Science student at **UNIFAJ (2024–2027)**  
+💼 Focused on becoming a **Full Stack Developer**  
+🚀 Currently learning **HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, SQL and MongoDB**  
+🌱 Passionate about building web applications, REST APIs, and solving real-world problems  
+📚 Also have experience with **Python, Java, and C/C++** from academic projects  
 
 ---
 
 ### ✨ Check out my repositories and let's grow together!
 
-⭐ Feel free to follow and connect with me!
+⭐ Feel free to follow me, fork my projects, and connect on LinkedIn!
