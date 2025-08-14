@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">A Computer Science student focused on Full Stack Development 🚀</h3>
+<h3 align="center">A Computer Science student focused on Full Stack & Java Development 🚀</h3>
 
 ---
 
@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
 </p>
 
 ---
@@ -42,10 +43,10 @@
 ### 👨‍💻 About Me
 
 🎓 Computer Science student at **UNIFAJ (2024–2027)**  
-💼 Focused on becoming a **Full Stack Developer**  
-🚀 Currently learning **HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, SQL and MongoDB**  
+💼 Focused on becoming a **Full Stack & Java Developer**  
+🚀 Currently learning **HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, SQL, MongoDB, and Java**  
 🌱 Passionate about building web applications, REST APIs, and solving real-world problems  
-📚 Also have experience with **Python, Java, and C/C++** from academic projects  
+📚 Also have experience with **C/C++** from academic projects  
 
 ---
 
